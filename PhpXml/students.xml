@@ -1,0 +1,18 @@
+<exemplo>
+	<aluno>
+		<nome>Rubens</nome>
+		<prontuario>3024121</prontuario>
+		<ira>8.5</ira>
+	</aluno>
+	<aluno>
+		<nome>Pedro</nome>
+		<prontuario>1111111</prontuario>
+		<ira>8.6</ira>
+	</aluno>
+	<aluno>
+		<nome>Gabriel</nome>
+		<prontuario>2222222</prontuario>
+		<ira>8.7</ira>
+	</aluno>
+
+</exemplo>
